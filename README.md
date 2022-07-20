@@ -1,5 +1,5 @@
 # Project Name
-> Skin Cancer detection using CNN
+> Skin Cancer Classification using CNN
 
 
 ## Table of Contents
